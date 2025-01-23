@@ -69,7 +69,12 @@ def update_readme(user_data):
     if last_finished_project:
         new_progress_section += f"\n**Último proyecto entregado:** {last_finished_project['project']['name']} 🏅\n"
 
-    # Reemplazar la sección existente con la nueva
+    # Verificar si la sección de "jvalle-d" ya existe, si no, agregarla
+    if "# jvalle-d" not in current_content:
+        title = "# jvalle-d 👨‍💻"
+        current_content = title + "\n" + current_content
+
+    # Reemplazar la sección del progreso existente con la nueva
     if "# Mi progreso en 42 Málaga" in current_content:
         current_content = current_content.replace(
             current_content.split("# Mi progreso en 42 Málaga")[1].split("#")[0],  # Detecta la sección a reemplazar
@@ -78,10 +83,6 @@ def update_readme(user_data):
     else:
         # Si no existe, añadir la nueva sección
         current_content = new_progress_section + "\n" + current_content
-
-    # Agregar el título "jvalle-d" con un emoticono al principio del README
-    title = "# jvalle-d 👨‍💻"
-    current_content = title + "\n" + current_content
 
     # Agregar el gif final al final del README
     gif = "![Final Gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)"
