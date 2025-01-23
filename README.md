@@ -1,9 +1,14 @@
-# Mi progreso en 42 Málaga Fundación Telefónica
+# jvalle-d 👨‍💻
+# jvalle-d 👨‍💻
 
-**Nivel:** 4.73
+# Mi progreso en 42 Málaga# Mi progreso en 42 Málaga 🎓🚀
 
-**Proyectos completados:** 39
+**Nivel:** 4.73 💯
 
-**Logros obtenidos:** 21
+**Proyectos completados:** 39 ✅
 
-¡El Common Core está cerca! 🚀
+**Logros obtenidos:** 21 🏆
+
+**Último proyecto entregado:** Cellule2-3-gecko  🏅
+
+![Final Gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
