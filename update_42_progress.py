@@ -66,11 +66,29 @@ def update_readme(user_data):
     if last_finished_project:
         new_progress_section += f"\n**Último proyecto entregado:** {last_finished_project['project']['name']} 🏅\n"
 
-    # Crear el contenido completo con el nuevo progreso
+    # Crear la sección de tecnologías que uso
+    technologies_section = """
+## Tecnologías que uso 🛠️
+
+- C 
+- C++ 
+- Docker 
+- Visual Studio Code 
+- Linux 
+- Proxmox 
+- Virtualbox 
+- Kali Linux 
+
+---
+
+"""
+    # Crear el contenido completo con el nuevo progreso y la sección de tecnologías
     content = f"""
 # jvalle-d 👨‍💻
 
 {new_progress_section}
+
+{technologies_section}
 
 ---
 
