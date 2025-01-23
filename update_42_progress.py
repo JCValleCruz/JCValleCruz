@@ -40,11 +40,11 @@ def update_readme(user_data):
     achievements = len(user_data.get("achievements", []))
 
     with open("README.md", "w") as readme:
-        readme.write("# Progreso en 42 Málaga\n\n")
+        readme.write("# Mi progreso en 42 Málaga Fundación Telefónica\n\n")
         readme.write(f"**Nivel:** {level}\n\n")
         readme.write(f"**Proyectos completados:** {projects}\n\n")
         readme.write(f"**Logros obtenidos:** {achievements}\n\n")
-        readme.write("¡Sigue adelante y conquista más retos en 42! 🚀")
+        readme.write("¡El Common Core está cerca! 🚀")
 
 # Flujo principal
 if __name__ == "__main__":
