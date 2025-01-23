@@ -1,9 +1,15 @@
-# Progreso en 42 Málaga
 
-**Nivel:** 4.73
+    # Progreso en 42 Málaga
 
-**Proyectos completados:** 39
+    **Nivel:** 4.73
 
-**Logros obtenidos:** 21
+    **Proyectos completados:** 39
 
-¡Sigue adelante y conquista más retos en 42! 🚀
+    **Logros obtenidos:** 21
+
+    **Último proyecto entregado:** C Piscine Shell 00
+
+    
+
+    ¡Visita mi perfil de LinkedIn y conéctate conmigo! [LinkedIn](https://www.linkedin.com/in/juancarlosvalle)
+    
