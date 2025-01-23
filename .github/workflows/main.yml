@@ -1,0 +1,33 @@
+name: Update 42 Progress
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Ejecuta todos los días a la medianoche (UTC)
+  workflow_dispatch: # Permite ejecutar manualmente desde la interfaz de GitHub Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run script to fetch 42 progress
+      run: python update_42_progress.py
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update 42 progress [skip ci]"
+        git push
