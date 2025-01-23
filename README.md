@@ -9,10 +9,13 @@
 **Tecnologías que uso:** 🛠️
 
 
+LOGOS        
+
+
 **Último proyecto entregado:** Cellule2-3-gecko  💼
 
 ---
-# Extra Gif Final 🎉
+# jvalle-d 🎉
 ![Final Gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 ¡Visita mi perfil de LinkedIn y conéctate conmigo! [LinkedIn](https://www.linkedin.com/in/juancarlosvalle)
