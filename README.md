@@ -13,8 +13,8 @@ Completed Projects: 39 ✅
 Achievements Unlocked: 21 🏆
 
 Last Project Submitted: Cellule2-3-gecko 🏅
+
 Technologies I Use 🛠️
-## Tecnologías que uso 🛠️
 
 - C 
 - C++ 
