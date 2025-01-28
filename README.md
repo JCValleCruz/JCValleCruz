@@ -1,21 +1,19 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # jvalle-d 👨‍💻
 
+My Progress at 42 Málaga 🎓🚀
 
-# Mi progreso en 42 Málaga 🎓🚀
+Level: 4.73 💯
 
-**Nivel:** 4.73 💯
+Completed Projects: 39 ✅
 
-**Proyectos completados:** 39 ✅
+Achievements Unlocked: 21 🏆
 
-**Logros obtenidos:** 21 🏆
-
-**Último proyecto entregado:** Cellule2-3-gecko  🏅
-
-
-
+Last Project Submitted: Cellule2-3-gecko 🏅
+Technologies I Use 🛠️
 ## Tecnologías que uso 🛠️
 
 - C 
@@ -26,10 +24,6 @@
 - Proxmox 
 - Virtualbox 
 - Kali Linux 
-
----
-
-
 
 ---
 
