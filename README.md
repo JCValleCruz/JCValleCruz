@@ -7,10 +7,10 @@
 
 ## 🚀 Mi progreso en 42 Málaga 🎓
 
-- **Nivel actual:** 4.73 💯
-- **Proyectos completados:** 39 ✅
+- **Nivel actual:** 4.67 💯
+- **Proyectos completados:** 40 ✅
 - **Logros desbloqueados:** 21 🏆
-- **Último proyecto entregado:** [Cellule2-3-gecko](https://github.com/JCValleCruz/Cellule2-3-gecko) 🏅
+- **Último proyecto entregado:** [Cub3D](https://github.com/JCValleCruz/Cube3D42) 🏅
 
 ---
 
